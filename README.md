@@ -1,0 +1,2 @@
+# menghek
+Baru belajar om
