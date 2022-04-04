@@ -6,8 +6,8 @@
  $ pkg install python git
  $ pip install requests bs4 futures
  $ pip install cython
- $ rm -rf Brute
- $ git clone https://github.com/Yayan-XD/Brute
+ $ rm -rf menghek
+ $ git clone https://github.com/BaaaR-4K/menghek
  ```
  oke sekarang script sudah terinstall
 #### CARA MENJALANKAN SCRIPT:
